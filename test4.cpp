@@ -4,8 +4,8 @@ int main()
 	int a = 0;
 	int b = 0;
 	int sum = 0;
-	scanf("%d %d",&a,&b);//ÊäÈëaºÍbµÄÖµ 
-	//scanfº¯ÊıÎªÊäÈëº¯Êı£¬%dºÍ&a¶ÔÓ¦ 
+	scanf("%d %d",&a,&b);//è¾“å…¥aå’Œbçš„å€¼ 
+	//scanfå‡½æ•°ä¸ºè¾“å…¥å‡½æ•°ï¼Œ%då’Œ&aå¯¹åº” 
 	sum = a+b ;
 	printf("sum=%d\n",sum);
 	
