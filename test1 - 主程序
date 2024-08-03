@@ -7,6 +7,9 @@
 //{}之间为函数体 
 //printf - 库函数 -屏幕上打印信息的
 //printf 的使用需要打招呼 （引用头文件 studio.h）
+//printf("%d",100) 打印整型
+//printf("%c",'a') 打印字符 
+//printf("%s","abc") 打印字符串 
  
  #include <stdio.h>
 //stdio.h没有u 
